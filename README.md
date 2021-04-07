@@ -105,4 +105,10 @@
 :worried:
 :expressionless:  
 
-2020\.04\.07.what your name
+2020\.04\.07.what your name  
+
+```seq
+A->B: Hellow!How are you?
+Not right of B: B is tired
+B-->A: OK!
+```  
