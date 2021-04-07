@@ -88,4 +88,13 @@
   </tr>
   </table>
   
-[^淡茶]: 清淡的茶，淡淡的
+[^淡茶]: 清淡的茶，淡淡的    
+
+# demo  
+
+
+:smile:
+:smiley:
+:smirk:
+:worred:
+:expressionless:
