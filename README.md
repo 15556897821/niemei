@@ -20,8 +20,8 @@
 **********
 # 目录2
 ## 讲解2.1
-1. <table><tr><td bgcolour=orange>保持淡定，才能欣赏到最美丽的风景！保持淡定，人生从此不再寂寞。</td></tr></table>
-2. <font colour=#FFA500 size=72>一盏灯，一片昏黄；一简书，一杯[^淡茶]。守着那一份淡定，品读属于自己的寂寞。</front>  
+1. <table><tr><td bgcolour=#FFA5900>保持淡定，才能欣赏到最美丽的风景！保持淡定，人生从此不再寂寞。</td></tr></table>
+2. <font colour=#gray size=72>一盏灯，一片昏黄；一简书，一杯[^淡茶]。守着那一份淡定，品读属于自己的寂寞。</front>  
 3. ![newname](https://github.com/15556897821/niemei/blob/main/newname.md)
 4. 123
 5. 123
