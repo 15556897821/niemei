@@ -69,7 +69,7 @@
 
 <table>
   <tr>
-    <th rowspan="2">出勤人员</th>
+    <th rowspan="3">出勤人员</th>
     <th>星期一</th>
     <th>星期三</th>
     <th>星期六</th>
@@ -79,6 +79,11 @@
     <td>乙</td>
     <td>丙</td>
   </tr>
-  </table>  
+  <tr>
+    <td>甲1</td>
+    <td>乙2</td>
+    <td>丙3</td>
+  </tr>
+  </table>
   
 [^淡茶]: 清淡的茶，淡淡的
