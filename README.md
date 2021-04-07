@@ -96,5 +96,5 @@
 :smile:
 :smiley:
 :smirk:
-:worred:
+:worried:
 :expressionless:
