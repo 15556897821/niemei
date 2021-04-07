@@ -106,9 +106,3 @@
 :expressionless:  
 
 2020\.04\.07.what your name  
-
-```seq
-Alice->Bob: Hello,how are you?
-Not right of Bob: Bob is tired
-Bob-->Alice: OK!
-```  
