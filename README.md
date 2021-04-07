@@ -1,6 +1,6 @@
 # 标题1
 ## 小目录1
-- ##0.目录{#index}
+- <span id="jump"></span>
 
 # 标题2
 ## 讲解2
@@ -13,6 +13,6 @@
 
 # 标题3
 ## 小目录3
-1.<table><tr><td bgcolour=orange>保持淡定，才能欣赏到最美丽的风景！保持淡定，人生从此不再寂寞。</td></tr></table>
+1. <table><tr><td bgcolour=orange>保持淡定，才能欣赏到最美丽的风景！保持淡定，人生从此不再寂寞。</td></tr></table>
 2. <font colour=gray size=72>一盏灯，一片昏黄；一简书，一杯淡茶。守着那一份淡定，品读属于自己的寂寞。</front>
-3. 跳转到[目录]（#index）
+3. [点击跳转]（#jump）
