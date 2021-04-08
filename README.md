@@ -114,4 +114,6 @@ N123.春眠不觉晓，*处处闻啼鸟*。<span id="126">**夜来风雨声**</s
 
 [现在我们回到古诗](#126)  
   
-![newname的终点](https://github.com/15556897821/niemei/blob/main/newname.md#%E7%BB%88%E7%82%B9)
+![newname的终点](https://github.com/15556897821/niemei/blob/main/newname.md#%E7%BB%88%E7%82%B9)  
+  
+https://github.com/15556897821/niemei/blob/main/newname.md#%E7%BB%88%E7%82%B9
