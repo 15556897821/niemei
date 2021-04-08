@@ -113,5 +113,3 @@ N123.春眠不觉晓，*处处闻啼鸟*。<span id="jump">**夜来风雨声**</
 [目录2](#目录2)  
 
 [现在我们回到夜来风雨声](#jump)  
-  
-<div id="jump-center" style="text-align:center;">
